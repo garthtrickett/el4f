@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-lightsail": "^3.425.0"
+  }
+}
